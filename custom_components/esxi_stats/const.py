@@ -13,7 +13,7 @@ REQUIRED_FILES = [
     "translations/en.json",
 ]
 VERSION = "0.6.3"
-ISSUE_URL = "https://github.com/wxt9861/esxi_stats/issues"
+ISSUE_URL = "https://github.com/sscaifesu/ha_int_esxi_stats/issues"
 
 STARTUP = """
 -------------------------------------------------------------------

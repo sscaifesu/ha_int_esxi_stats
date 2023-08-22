@@ -1,9 +1,9 @@
 {
   "domain": "esxi_stats",
   "name": "ESXi Stats",
-  "documentation": "https://github.com/wxt9861/esxi_stats",
-  "issue_tracker": "https://github.com/wxt9861/esxi_stats/issues",
+  "documentation": "https://github.com/sscaifesu/ha_int_esxi_stats",
+  "issue_tracker": "https://github.com/sscaifesu/ha_int_esxi_stats/issues",
   "dependencies": [],
-  "codeowners": ["@wxt9861"],
+  "codeowners": ["@sscaifesu"],
   "requirements": ["pyvmomi==7.0.3"]
 }
